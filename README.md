@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Khaled and I am a Front-End Developer from Ukraine.</p>
+<p align="left">My name is Khaled and I am a web Developer from Ukraine.</p>
 
 ###
 
